@@ -1,0 +1,2 @@
+# CowSay
+Node exercise, beginner
